@@ -10,3 +10,4 @@ A00232280
 
 ### LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio
+1. ¿Hacer esto desde la terminal es uno? No recuerdo realmente
