@@ -8,5 +8,5 @@ Fernando de Jesús Mendivil Terminel
 ## MATRICULA
 A00232280
 
-## LISTADO DE EJERCICIOS
+### LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio
