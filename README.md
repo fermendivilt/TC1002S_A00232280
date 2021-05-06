@@ -10,9 +10,9 @@ Fernando de Jesús Mendivil Terminel
 A00232280
 
 ## Equipo
-Miguel Padres Molina - A01252852
-Santiago Aguirre Gómez del Campo - A01253681
-Jesús Enríquez Jaime - A01253235
+* Miguel Padres Molina - A01252852
+* Santiago Aguirre Gómez del Campo - A01253681
+* Jesús Enríquez Jaime - A01253235
 
 ### LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio
