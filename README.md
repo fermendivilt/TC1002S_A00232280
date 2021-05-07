@@ -18,4 +18,4 @@ A00232280
 * Lista de los ejercicios contenidos en el repositorio
 1. ¿Hacer esto desde la terminal es uno? No recuerdo realmente (si lo era).
 2. Anotar mi equipo de la materia.
-3. Actividades sobre estadística
+3. Actividades sobre estadística (se ejecutan en Jupyter Notebook)
